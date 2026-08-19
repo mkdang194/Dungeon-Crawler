@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ramp.png</file>
+        <file>bloody_frame.png</file>
+        <file>switch.png</file>
+        <file>startscreen.png</file>
+        <file>new_game_button.png</file>
+        <file>pit.png</file>
+        <file>arrow_down_right.png</file>
+        <file>arrow_left.png</file>
+        <file>arrow_right.png</file>
+        <file>arrow_skip.png</file>
+        <file>arrow_up.png</file>
+        <file>arrow_up_left.png</file>
+        <file>arrow_up_right.png</file>
+        <file>char_right_1.png</file>
+        <file>char_right_2.png</file>
+        <file>char_right_3.png</file>
+        <file>portal1.png</file>
+        <file>portal2.png</file>
+        <file>portal3.png</file>
+        <file>wall1.png</file>
+        <file>door1.png</file>
+        <file>door2.png</file>
+        <file>floor1.png</file>
+        <file>floor2.png</file>
+        <file>floor3.png</file>
+        <file>floor4.png</file>
+        <file>floor5.png</file>
+        <file>arrow_down.png</file>
+        <file>zombie_left.png</file>
+        <file>zombie_right.png</file>
+        <file>lootchest.png</file>
+        <file>levelportal.png</file>
+    </qresource>
+</RCC>

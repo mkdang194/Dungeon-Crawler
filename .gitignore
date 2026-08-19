@@ -1,0 +1,45 @@
+# --- Build output ---
+build/
+build-*/
+out/
+bin/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# --- Qt ---
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile*
+*.autosave
+.qmake.stash
+
+# --- CMake ---
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+_deps/
+compile_commands.json
+
+# --- Test binaries ---
+run_tests
+tests/run_tests
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
