@@ -3,8 +3,8 @@
 #include <vector>
 #include <memory>
 #include <string>
-#include "Tile.h"
-#include "Character.h"
+#include "tile.h"
+#include "character.h"
 #include "portal.h"
 #include "door.h"
 #include "switch.h"

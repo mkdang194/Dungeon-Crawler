@@ -1,5 +1,5 @@
 #include "pit.h"
-#include "Character.h"
+#include "character.h"
 #include "ramp.h"
 #include <stdexcept>
 

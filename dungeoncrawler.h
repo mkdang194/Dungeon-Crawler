@@ -1,7 +1,7 @@
 #ifndef DUNGEONCRAWLER_H
 #define DUNGEONCRAWLER_H
-#include "Input.h"
-#include "Level.h"
+#include "input.h"
+#include "level.h"
 #include <QMutex>
 
 class Character;

@@ -1,7 +1,7 @@
 #ifndef SWITCH_H
 #define SWITCH_H
 #include "active.h"
-#include "Tile.h"
+#include "tile.h"
 
 // p4
 class Switch : public Tile, public Active

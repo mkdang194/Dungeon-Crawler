@@ -1,4 +1,4 @@
-#include "Character.h"
+#include "character.h"
 
 std::string Character::getTexture() const{
     return texture;

@@ -1,7 +1,7 @@
 #ifndef RAMP_H
 #define RAMP_H
 
-#include "Tile.h"
+#include "tile.h"
 
 // p4
 class Ramp : public Tile

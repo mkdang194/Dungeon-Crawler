@@ -1,7 +1,7 @@
 #ifndef PIT_H
 #define PIT_H
 
-#include "Tile.h"
+#include "tile.h"
 
 // p4
 class Pit : public Tile

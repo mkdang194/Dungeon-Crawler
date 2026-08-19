@@ -1,6 +1,6 @@
 #ifndef DOOR_H
 #define DOOR_H
-#include "Tile.h"
+#include "tile.h"
 #include "passive.h"
 
 class Door : public Tile, public Passive

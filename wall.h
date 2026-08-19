@@ -1,6 +1,6 @@
 #ifndef WALL_H
 #define WALL_H
-#include "Tile.h"
+#include "tile.h"
 
 class Wall : public Tile{
 public:

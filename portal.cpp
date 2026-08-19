@@ -1,4 +1,4 @@
-#include "Portal.h"
+#include "portal.h"
 
 Tile* Portal::onEnter(Character* who){
     if (!linkedPortal) return this;

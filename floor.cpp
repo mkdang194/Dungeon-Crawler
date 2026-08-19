@@ -1,5 +1,5 @@
-#include "Floor.h"
-#include "Character.h"
+#include "floor.h"
+#include "character.h"
 
 Tile* Floor::onEnter(Character* who){
     return this;

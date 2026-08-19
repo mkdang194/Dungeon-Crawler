@@ -1,7 +1,7 @@
 #ifndef LEVELPORTAL_H
 #define LEVELPORTAL_H
 
-#include "Tile.h"
+#include "tile.h"
 
 class LevelPortal : public Tile
 {

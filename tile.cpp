@@ -1,5 +1,5 @@
-#include "Tile.h"
-#include "Character.h"
+#include "tile.h"
+#include "character.h"
 
 //world behavior unit (polymorphism)
 
