@@ -90,6 +90,3 @@ Move with WASD or the on-screen buttons.
 Object-oriented design, deep inheritance hierarchies and polymorphism, the Observer
 pattern, RAII and smart-pointer ownership, RTTI via `dynamic_cast`, model/view
 separation, Qt signal–slot, multithreading, and file I/O.
-
-## License
-`[optional — e.g. MIT. If you add one, create a LICENSE file.]`
