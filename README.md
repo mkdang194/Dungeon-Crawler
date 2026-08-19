@@ -7,9 +7,7 @@ Observer pattern, and a separation of game logic from presentation.
 
 <img width="2550" height="1558" alt="image" src="https://github.com/user-attachments/assets/78de784e-fbaf-4c20-9e1e-66ffca3e2fb4" />
 
-<!-- After you set up CI (see TESTING_CI_PLAN.md), add the build badge here:
 [![CI](https://github.com/mkdang194/Dungeon-Crawler/actions/workflows/ci.yml/badge.svg)](https://github.com/mkdang194/Dungeon-Crawler/actions/workflows/ci.yml)
--->
 
 ---
 
@@ -71,7 +69,7 @@ cmake --build build
 The level files are copied next to the executable automatically during the build.
 
 ### Controls
-WASD / on-screen buttons
+Move with WASD or the on-screen buttons.
 
 ## Project Structure
 ```
