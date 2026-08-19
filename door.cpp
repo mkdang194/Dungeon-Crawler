@@ -1,5 +1,5 @@
 #include "door.h"
-#include "Character.h"
+#include "character.h"
 #include <iostream>
 
 void Door::notify()

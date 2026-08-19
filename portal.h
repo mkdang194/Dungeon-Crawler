@@ -1,6 +1,6 @@
 #ifndef PORTAL_H
 #define PORTAL_H
-#include "Tile.h"
+#include "tile.h"
 
 class Portal : public Tile{
 protected:
